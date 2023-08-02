@@ -1,15 +1,7 @@
 
 
 ## Coverview
-Creating cover images for your blogs is now super easy.
-<p>
-<a href="https://github.com/rutikwankhade/CoverView"><img src="https://img.shields.io/github/stars/rutikwankhade/CoverView.svg?style=social&label=Star"></a>
-<a href="https://github.com/rutikwankhade/CoverView"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
-<a href="https://lbesson.mit-license.org"><img src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
-
-
-
-</p>
+블로그 커버 이미지 작성은 이제 매우 쉽습니다.
 
 
 
@@ -21,15 +13,15 @@ Creating cover images for your blogs is now super easy.
  
 
 
-## ⚡ Features
-- 🚀 super fast and easy to use
-- 🌈 4 different themes, multiple fonts
-- 🌠 100+ dev icons with option to upload custom icon
-- ✨ 15+ different background patterns
-- 💾 Cover size based on blogging platform (i.e hashnode and dev)
+## ⚡ 기능
+- 🚀 매우 빠르고 사용하기 쉽습니다.
+- 🌈 4가지 다른 테마, 여러 가지 폰트
+- 🌠 100개 이상의 개발자 아이콘과 사용자 정의 아이콘 업로드 옵션
+- ✨ 15가지 이상의 다양한 배경 패턴
+- 💾 블로깅 플랫폼
 
-## 👩‍💻 Developing
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 👩‍💻 개발 중입니다
+이 프로젝트는 [Create React App](https://github.com/facebook/create-react-app)로시작되었습니다.
 
 
 
@@ -39,23 +31,10 @@ cd CoverView/
 npm start
 ```
 
-
-## 👇 Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-
-1. Fork it (<https://github.com/rutikwankhade/CoverView/fork>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
-
-
-## 🙏 Acknowledgments
+## 🙏 감사의 말씀
 - [react-component-export-image](https://www.npmjs.com/package/react-component-export-image)
 - [Hero Patterns](https://www.heropatterns.com/)
 - [Devicons](https://github.com/devicons/devicon)
 
-Don't forget to leave a ⭐ if you found this useful.
 
 
